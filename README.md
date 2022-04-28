@@ -1,7 +1,15 @@
-# Getting Started with Create React App
-# You can visit the site : https://chatwithfriend.netlify.app/
+## You can visit the site : https://chatwithfriend.netlify.app/
+#### Chat Application built using #reactjs and #chatengine.io contains features like login authentication, adding/removing friends, creating groups and image uploading.:point_down:
+<hr/>
 
-![Alt text](C:\Users\niket\OneDrive\Pictures\Screenshots\chatwithfriends.png?raw=true "Title")
+### Few Snapshots :fire:
+
+<img width="70%" src="https://user-images.githubusercontent.com/77925518/165700862-1c03fdf1-d83f-4873-a918-ec41f851979f.png">
+
+<hr/>
+<img width="70%" src="https://user-images.githubusercontent.com/77925518/165701665-f49e2a4d-7a38-4a29-85a4-e7444d69cccf.png">
+
+<hr/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -66,7 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+These site was deployed on Netlify [https://app.netlify.com/]
 
 ### `npm run build` fails to minify
 
