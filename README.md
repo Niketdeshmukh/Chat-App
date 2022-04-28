@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+# You can visit the site : https://chatwithfriend.netlify.app/
+
+![Alt text](C:\Users\niket\OneDrive\Pictures\Screenshots\chatwithfriends.png?raw=true "Title")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
