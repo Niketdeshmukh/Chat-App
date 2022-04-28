@@ -1,6 +1,5 @@
 import { useState } from "react";
 import axios from "axios";
-
 const projectID = "d2ff3b70-e5c2-47cc-ac72-2078d9580e6d";
 
 const Modal = () => {
@@ -64,6 +63,14 @@ const Modal = () => {
                 <span>Sign Up</span>
               </button>
             </div>
+          </div>
+          <div className="info_box">
+            <div className="heading01">
+            Hello! 
+          <span class="emoji wave-hand animated"></span></div>
+            For New Users: <br />
+            Username: Unknown <br />
+            Password:Unknown@123
           </div>
         </form>
         <h1>{error}</h1>
