@@ -1,14 +1,6 @@
 ## You can visit the site : https://chatwithfriend.netlify.app/
-#### Chat Application built using #reactjs and #chatengine.io contains features like login authentication, adding/removing friends, creating groups and image uploading.:point_down:
-<hr/>
-
-### Few Snapshots :fire:
-
-<img width="70%" src="https://user-images.githubusercontent.com/77925518/165700862-1c03fdf1-d83f-4873-a918-ec41f851979f.png">
-
-<hr/>
-<img width="70%" src="https://user-images.githubusercontent.com/77925518/165701665-f49e2a4d-7a38-4a29-85a4-e7444d69cccf.png">
-
+#### Chat Application built using #reactjs and #chatengine.io contains features like login authentication, adding/removing friends, creating groups and image uploading.👉
+<img align="right" alt="Coding" width="60%" src="https://user-images.githubusercontent.com/77925518/184523462-58335d3a-7eee-4f5a-b893-c1e63502abf6.png">
 <hr/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
