@@ -70,7 +70,7 @@ const Modal = () => {
           <span class="emoji wave-hand animated"></span></div>
             For New Users: <br />
             Username: Unknown <br />
-            Password:Unknown@123
+            Password:123456789
           </div>
         </form>
         <h1>{error}</h1>
